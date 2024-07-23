@@ -1,5 +1,3 @@
-Erik-Cupsa/README.md
-
 ### Hi 👋 I'm Vuyo Mathe
 ## 💫 About Me:
 I am a fourth-year  Bachelor of Computing  (Hons)  student at Belgium Campus Itversity, passionate about exploring the realms of coding, machine learning, and building full-stack robust applications.
