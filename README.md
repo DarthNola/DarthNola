@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Vuyo Mathe
 ## 💫 About Me:
-I am a fourth-year  Bachelor of Computing  (Hons)  student at Belgium Campus Itversity, passionate about exploring the realms of coding, machine learning, and building full-stack robust applications.
+I am a fourth-year  Bachelor of Computing  (Hons)  student at Belgium Campus Itversity, passionate about exploring the realms of coding, machine learning, and building robust full-stack applications.
 
 ## 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with scikit-learn
